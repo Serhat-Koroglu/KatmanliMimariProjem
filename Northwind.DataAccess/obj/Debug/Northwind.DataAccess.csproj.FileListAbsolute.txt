@@ -1,0 +1,28 @@
+C:\Users\Serhat\Desktop\NorthwindProject\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll.config
+C:\Users\Serhat\Desktop\NorthwindProject\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll
+C:\Users\Serhat\Desktop\NorthwindProject\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.pdb
+C:\Users\Serhat\Desktop\NorthwindProject\Northwind.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Serhat\Desktop\NorthwindProject\Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Serhat\Desktop\NorthwindProject\Northwind.DataAccess\bin\Debug\Northwind.Entities.dll
+C:\Users\Serhat\Desktop\NorthwindProject\Northwind.DataAccess\bin\Debug\Northwind.Entities.pdb
+C:\Users\Serhat\Desktop\NorthwindProject\Northwind.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Serhat\Desktop\NorthwindProject\Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Serhat\Desktop\NorthwindProject\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\NorthwindProject\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\NorthwindProject\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CopyComplete
+C:\Users\Serhat\Desktop\NorthwindProject\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.dll
+C:\Users\Serhat\Desktop\NorthwindProject\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.pdb
+C:\Users\Serhat\Desktop\Yeni klasör\NorthwindProject\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll.config
+C:\Users\Serhat\Desktop\Yeni klasör\NorthwindProject\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll
+C:\Users\Serhat\Desktop\Yeni klasör\NorthwindProject\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.pdb
+C:\Users\Serhat\Desktop\Yeni klasör\NorthwindProject\Northwind.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Serhat\Desktop\Yeni klasör\NorthwindProject\Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Serhat\Desktop\Yeni klasör\NorthwindProject\Northwind.DataAccess\bin\Debug\Northwind.Entities.dll
+C:\Users\Serhat\Desktop\Yeni klasör\NorthwindProject\Northwind.DataAccess\bin\Debug\Northwind.Entities.pdb
+C:\Users\Serhat\Desktop\Yeni klasör\NorthwindProject\Northwind.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Serhat\Desktop\Yeni klasör\NorthwindProject\Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Serhat\Desktop\Yeni klasör\NorthwindProject\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\Yeni klasör\NorthwindProject\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\Yeni klasör\NorthwindProject\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CopyComplete
+C:\Users\Serhat\Desktop\Yeni klasör\NorthwindProject\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.dll
+C:\Users\Serhat\Desktop\Yeni klasör\NorthwindProject\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.pdb

@@ -1,0 +1,11 @@
+C:\Users\Serhat\Desktop\NorthwindProject\Northwind.Entities\bin\Debug\Northwind.Entities.dll
+C:\Users\Serhat\Desktop\NorthwindProject\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
+C:\Users\Serhat\Desktop\NorthwindProject\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\NorthwindProject\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\NorthwindProject\Northwind.Entities\obj\Debug\Northwind.Entities.dll
+C:\Users\Serhat\Desktop\NorthwindProject\Northwind.Entities\obj\Debug\Northwind.Entities.pdb
+C:\Users\Serhat\Desktop\Yeni klasör\NorthwindProject\Northwind.Entities\bin\Debug\Northwind.Entities.dll
+C:\Users\Serhat\Desktop\Yeni klasör\NorthwindProject\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
+C:\Users\Serhat\Desktop\Yeni klasör\NorthwindProject\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\Yeni klasör\NorthwindProject\Northwind.Entities\obj\Debug\Northwind.Entities.dll
+C:\Users\Serhat\Desktop\Yeni klasör\NorthwindProject\Northwind.Entities\obj\Debug\Northwind.Entities.pdb
